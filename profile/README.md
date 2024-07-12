@@ -1,17 +1,24 @@
 # 함께, 하나?
+> 스포츠에 진심인 하나은행과 스포츠에 진심인 MZ세대를 결합할 수 있는 플랫폼
 
 ## Project Introduction
-> 하나은행은 타행 대비 다양한 종목의 스포츠를 후원하고 있고, MZ 세대들의 스포츠 직관 열풍을 배경으로 모임통장 서비스를 제공하여 스포츠 문화를 장려한다.
+> 하나은행은 타행 대비 다양한 종목의 스포츠를 후원하고 있고, MZ 세대들의 스포츠 직관 열풍을 배경으로 모임통장 서비스를 제공하여 스포츠 문화를 장려
 >
 > 스포츠를 관람하는데 있어 재미적인 요소를 제공하거나, 공용 자금을 사용하는데 있어 편리한 기능들을 제공하여 스포츠 문화를 ‘함께, 하나?’ 서비스를 통해 즐길 수 있도록 한다.
 
 
 ## Team Composition
-<div align="center">
+<div align="">
 
-| **[팀장] 이상민** | **신지연** | **이고은** | **이지후** | **정찬수** |
-| :------: | :------: | :------: | :------: | :------: |
-| [<img src="https://avatars.githubusercontent.com/tkdalsss" height=150 width=150> <br/> @tkdalsss](https://github.com/tkdalsss) | [<img src="https://avatars.githubusercontent.com/jiyeoon00" height=150 width=150> <br/> @jiyeoon00](https://github.com/jiyeoon00) | [<img src="https://avatars.githubusercontent.com/egon6018" height=150 width=150> <br/> @egon6018](https://github.com/egon6018) | [<img src="https://avatars.githubusercontent.com/lee010207" height=150 width=150> <br/> @lee010207](https://github.com/lee010207) | [<img src="https://avatars.githubusercontent.com/iamcharles98" height=150 width=150> <br/> @iamcharles98](https://github.com/iamcharles98) |
+  ### 💃 Front End
+| **[팀장, Lead] 이상민** | **이고은** |
+| :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/tkdalsss" height=150 width=150> <br/> @tkdalsss](https://github.com/tkdalsss) | [<img src="https://avatars.githubusercontent.com/egon6018" height=150 width=150> <br/> @egon6018](https://github.com/egon6018) |
+
+### 💂‍♂️ Back End
+| **[Lead] 정찬수** | **신지연** | **이지후** |
+| :------: | :------: | :------: |
+| [<img src="https://avatars.githubusercontent.com/iamcharles98" height=150 width=150> <br/> @iamcharles98](https://github.com/iamcharles98) | [<img src="https://avatars.githubusercontent.com/jiyeoon00" height=150 width=150> <br/> @jiyeoon00](https://github.com/jiyeoon00) | [<img src="https://avatars.githubusercontent.com/lee010207" height=150 width=150> <br/> @lee010207](https://github.com/lee010207) |
 
 </div>
 
