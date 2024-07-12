@@ -3,7 +3,7 @@
 
 ## Project Introduction
 > 하나은행은 타행 대비 다양한 종목의 스포츠를 후원하고 있고, MZ 세대들의 스포츠 직관 열풍을 배경으로 모임통장 서비스를 제공하여 스포츠 문화를 장려
->
+
 > 스포츠를 관람하는데 있어 재미적인 요소를 제공하거나, 공용 자금을 사용하는데 있어 편리한 기능들을 제공하여 스포츠 문화를 ‘함께, 하나?’ 서비스를 통해 즐길 수 있도록 한다.
 
 
@@ -23,9 +23,9 @@
 </div>
 
 ## Project Structure
-추후 업로드
+![image](https://github.com/user-attachments/assets/91de4cb0-0ad2-4c98-a87c-0a93e0459e7c)
 
-## Project Rules[+추가 예정]
+## Project Rules
 ### Prettier
 - prettier를 활용한 코드 포맷팅을 통해 정해진 규칙에 따라 자동적으로 코드 스타일을 정리해 코드의 일관성을 유지하고자 했습니다
 
