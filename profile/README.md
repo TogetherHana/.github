@@ -1,5 +1,5 @@
 # # 함께, 하나? 
-<img src="https://github.com/user-attachments/assets/53bc23af-bca3-40e3-b48a-6c3fbfe6b32b" alt="프로젝트소개" style="width:70%; height:auto;"> <br/>
+<img src="https://github.com/user-attachments/assets/53bc23af-bca3-40e3-b48a-6c3fbfe6b32b" alt="프로젝트소개" style="width:90%; height:70%;"> <br/>
 
 [디지털하나로 금융서비스개발 2기] - 2차 프로젝트
 > 하나은행은 타행 대비 다양한 종목의 스포츠를 후원하고 있고, MZ 세대들의 스포츠 직관 열풍을 배경으로 모임통장 서비스를 제공하여 스포츠 문화를 장려
@@ -48,7 +48,7 @@
 <br/><br/>
 
 ## 4. 서비스 아키텍처
-<img src="https://github.com/user-attachments/assets/c53b4c45-52d2-4668-a5a3-ddda86bd4c47" alt="시스템아키텍처" style="width:70%; height:auto;">
+<img src="https://github.com/user-attachments/assets/c53b4c45-52d2-4668-a5a3-ddda86bd4c47" alt="시스템아키텍처" style="width:90%; height:70%;">
 
 <br/><br/>
 
