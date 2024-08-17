@@ -42,8 +42,7 @@
 <br/>
 
 ## 3. ERD
-
-
+<img src="https://github.com/user-attachments/assets/cf6789f6-8779-449a-bd26-bdf1e334b570" alt="erd" style="width:90%; height:70%;">
 
 <br/><br/>
 
@@ -59,15 +58,15 @@
     <td align="center" style="vertical-align: middle;"><strong><홈 화면></strong></td>
   </tr>
   <tr>
-    <td align="center">
-      사진
+    <td align="center">	 
+      <img src="https://github.com/user-attachments/assets/9d759d63-dda8-44f4-af18-82572a4723ad" alt="홈화면" style="width:70%; height:auto;">    
    </td>
   </tr>
   <tr>
     <td>
-    -   참여하고 있는 모임통장 리스트를 확인할 수 있습니다. <br/>
+    	-   참여하고 있는 모임통장 리스트를 확인할 수 있습니다. <br/>
 	-   스포츠 마일리지를 확인하고, 충전 및 환전하기로 이동할 수 있습니다. <br/>
-	-   자신의 응원팀을 확인할 수 있으며, 경기 일정을 확인할 수 있습니다.
+	-   자신의 스포츠 응원팀을 설정하고 확인할 수 있으며, 경기 일정을 확인할 수 있습니다.
     </td>
   </tr>
 </table>
@@ -80,13 +79,13 @@
     <td align="center" style="vertical-align: middle;"><strong><모임통장 생성></strong></td>
   </tr>
   <tr>
-    <td align="center">
-      사진
+    <td align="center">	
+      <img src="https://github.com/user-attachments/assets/70c0d022-d478-4fee-8fe7-bd9720885842" alt="모임통장생성" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
     <td>
-    -  본인 정보 확인 후, 모임 통장 이름을 입력하고 목적(축구, 야구, e-스포츠) 을 선택하여 모임통장을 생성합니다.
+    	-  본인 정보 확인 후, 모임 통장 이름을 입력하고 목적(축구, 야구, e-스포츠) 을 선택하여 모임통장을 생성합니다.
     </td>
   </tr>
 </table>
@@ -96,31 +95,33 @@
     <td align="center" style="vertical-align: middle;"><strong><모임통장 초대 및 가입></strong></td>
   </tr>
   <tr>
-    <td align="center">
-      사진
+    <td align="center">	
+      <img src="https://github.com/user-attachments/assets/fe62d2ac-28ef-4346-a78d-ed68f8aac6ae" alt="모임통장초대및가입" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
     <td>
-    -   총무는 초대코드를 생성할 수 있습니다. <br/>
-    -   다른 사용자는 해당 초대코드로 모임통장에 참여할 수 있습니다.
+    	-   총무는 초대코드를 생성할 수 있습니다. <br/>
+    	-   다른 사용자는 해당 초대코드로 모임통장에 참여할 수 있습니다.
     </td>
   </tr>
 </table>
 
 <table>
   <tr>
-    <td align="center" style="vertical-align: middle;"><strong><회비 걷기></strong></td>
+    <td align="center" style="vertical-align: middle;"><strong><회비 걷기 & 이체></strong></td>
   </tr>
   <tr>
-    <td align="center">
-      사진
+    <td align="center">	
+      <img src="https://github.com/user-attachments/assets/ddf6d8af-4eaa-44b4-84eb-ef5dfa8c25e1" alt="회비걷기및이체" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
     <td>
-    -   총무가 걷을 금액을 입력 후 수금을 요청합니다. <br/>
-    -   모임통장 내 모임원에게 수금 요청 알림이 갑니다.
+    	- 총무가 걷을 금액을 입력 후 수금을 요청합니다. <br/>
+	- 모임통장 내 모임원에게 수금 요청 알림이 갑니다. <br/>
+	- 총무는 돈을 이체할 수 있습니다. <br/>
+	- 총무가 돈을 이체할 경우 모임원에게 알림이 갑니다.
     </td>
   </tr>
 </table>
@@ -130,13 +131,13 @@
     <td align="center" style="vertical-align: middle;"><strong><모임통장 홈화면></strong></td>
   </tr>
   <tr>
-    <td align="center">
-      사진
+    <td align="center">	  
+      <img src="https://github.com/user-attachments/assets/dfc7ee1c-06e6-41fd-9af4-4a86a9856da0" alt="모임통장홈화면" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
     <td>
-    -   입출금 내역과 계좌 잔액을 확인할 수 있습니다. <br/>
+    	-   입출금 내역과 계좌 잔액을 확인할 수 있습니다. <br/>
 	-   모임원을 확인할 수 있습니다. <br/>
 	-   현재 모임통장 내 열린 빅매치를 확인할 수 있으며 클릭 시 빅매치 겨루기 화면으로 이동합니다.
     </td>
@@ -152,12 +153,12 @@
   </tr>
   <tr>
     <td align="center">
-      사진
+      <img src="" alt="빅매치생성" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
     <td>
-    -   내기 제목, 선택지, 투표 마감일, 벌금을 입력한 후 빅매치를 생성합니다.
+    	-   내기 제목, 선택지, 투표 마감일, 벌금을 입력한 후 빅매치를 생성합니다.
     </td>
   </tr>
 </table>
@@ -168,12 +169,12 @@
   </tr>
   <tr>
     <td align="center">
-      사진
+      <img src="" alt="빅매치겨루기" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
     <td>
-    -   모임원은 선택지에 투표하여 빅매치에 참여합니다.
+    	-   모임원은 선택지에 투표하여 빅매치에 참여합니다.
     </td>
   </tr>
 </table>
@@ -184,12 +185,12 @@
   </tr>
   <tr>
     <td align="center">
-      사진
+      <img src="" alt="빅매치종료" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
     <td>
-    -   총무는 투표 마감 시간이 지나면 승리자를 선택할 수 있습니다. <br/>
+    	-   총무는 투표 마감 시간이 지나면 승리자를 선택할 수 있습니다. <br/>
 	-   패배자들에게는 자동으로 벌금 송금 요청이 갑니다.
     </td>
   </tr>
@@ -203,13 +204,13 @@
     <td align="center" style="vertical-align: middle;"><strong><승리팀 맞추기 이벤트></strong></td>
   </tr>
   <tr>
-    <td align="center">
-      사진
+    <td align="center">   
+	<img src="https://github.com/user-attachments/assets/c085016d-7cde-431d-9e9b-35c41599b010" alt="승리팀맞추기이벤트" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
     <td>
-    -   승리팀을 예측하고, 승패를 모두 맞출 경우 스포트 마일리지가 지급됩니다.
+    	-   승리팀을 예측하고, 승패를 모두 맞출 경우 스포트 마일리지가 지급됩니다.
     </td>
   </tr>
 </table>
@@ -220,12 +221,12 @@
   </tr>
   <tr>
     <td align="center">
-      사진
+	<img src="https://github.com/user-attachments/assets/88ec9354-73b3-4e76-bd46-5bc7c9c7a303" alt="선착순이벤트" style="width:70%; height:auto;">      
     </td>
   </tr>
   <tr>
     <td>
-    -   선착순으로 빠르게 클릭하면 스포츠 마일리지나, 경기 티켓이 지급됩니다.
+    	-   선착순으로 빠르게 클릭하면 스포츠 마일리지나, 경기 티켓이 지급됩니다.
     </td>
   </tr>
 </table>
@@ -239,12 +240,12 @@
   </tr>
   <tr>
     <td align="center">
-      사진
+      <img src="" alt="마일리지충전및전환" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
     <td>
-    -   스포츠 마일리지를 충전할 수 있습니다.
+    	-   스포츠 마일리지를 충전할 수 있습니다.
 	-   스포츠 마일리지를 현금으로 전환할 수 있습니다.
     </td>
   </tr>
@@ -256,12 +257,47 @@
   </tr>
   <tr>
     <td align="center">
-      사진
+      <img src="" alt="마일리지굿즈샵" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
     <td>
-    -   스포츠 마일리지로 굿즈를 구매할 수 있습니다.
+    	-   스포츠 마일리지로 굿즈를 구매할 수 있습니다.
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+### ❻ 관리자 페이지
+<table>
+  <tr>
+    <td align="center" style="vertical-align: middle;"><strong><플랫폼 통계></strong></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="" alt="플랫폼통계" style="width:70%; height:auto;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+    	-   모임통장 개설 건수, 참여자수, 입출금거래액수, 모임통장 이벤트 참여자수를 확인할 수 있습니다.
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" style="vertical-align: middle;"><strong><이벤트 통계></strong></td>
+  </tr>
+  <tr>
+    <td align="center">	
+      <img src="https://github.com/user-attachments/assets/ebf04f46-36b5-43e3-9d00-787873e82ad8" alt="이벤트통계" style="width:70%; height:auto;">
+    </td>
+  </tr>
+  <tr>
+    <td>
+    	-   종목별, 응원팀 승리 이벤트, 티켓 선착순 이벤트 등의 참여자 수를 분석하여 어떤 유형의 이벤트가 고객에게 인기 있는지를 파악할 수 있습니다.
     </td>
   </tr>
 </table>
