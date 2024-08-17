@@ -152,8 +152,8 @@
     <td align="center" style="vertical-align: middle;"><strong><빅매치 생성></strong></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="" alt="빅매치생성" style="width:70%; height:auto;">
+    <td align="center">	 
+      <img src="https://github.com/user-attachments/assets/b2d0ae37-0698-4f02-9aeb-1acc68dfa33c" alt="빅매치생성" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
@@ -168,8 +168,8 @@
     <td align="center" style="vertical-align: middle;"><strong><빅매치 겨루기></strong></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="" alt="빅매치겨루기" style="width:70%; height:auto;">
+    <td align="center">	    
+      <img src="https://github.com/user-attachments/assets/5a89c37e-fefb-4005-b80d-de63655d02bf" alt="빅매치겨루기" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
@@ -184,8 +184,8 @@
     <td align="center" style="vertical-align: middle;"><strong><빅매치 종료></strong></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="" alt="빅매치종료" style="width:70%; height:auto;">
+    <td align="center">	
+      <img src="https://github.com/user-attachments/assets/810114af-6dd9-4ee6-9105-9dcf6c2f8af1" alt="빅매치종료" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
@@ -240,7 +240,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="" alt="마일리지충전및전환" style="width:70%; height:auto;">
+      <img src="https://github.com/user-attachments/assets/ae79a44a-c9f2-4616-9a39-cccb77981851" alt="마일리지충전및전환" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
@@ -257,7 +257,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="" alt="마일리지굿즈샵" style="width:70%; height:auto;">
+      <img src="https://github.com/user-attachments/assets/f6313676-6cf6-4b87-a009-6e465a3a35af" alt="마일리지굿즈샵" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
@@ -275,8 +275,8 @@
     <td align="center" style="vertical-align: middle;"><strong><플랫폼 통계></strong></td>
   </tr>
   <tr>
-    <td align="center">
-      <img src="" alt="플랫폼통계" style="width:70%; height:auto;">
+    <td align="center">	   
+      <img src="https://github.com/user-attachments/assets/a7dadf91-86e3-4963-8e42-c0b207f02871" alt="플랫폼통계" style="width:70%; height:auto;">
     </td>
   </tr>
   <tr>
